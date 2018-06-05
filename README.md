@@ -1,13 +1,13 @@
-.# cheatsheet-living-in-us
+# cheatsheet-living-in-ca
 <a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![LinkedIn](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/linkedin_icon.png)](https://www.linkedin.com/in/dennyzhang001) <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a> [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/DennyZhang)
 
-File me [tickets](https://github.com/DennyZhang/cheatsheet-living-in-us/issues) or star [the repo](https://github.com/DennyZhang/cheatsheet-living-in-us).
+File me [tickets](https://github.com/DennyZhang/cheatsheet-living-in-ca/issues) or star [the repo](https://github.com/DennyZhang/cheatsheet-living-in-ca).
 
 See more CheatSheets from Denny: [#denny-cheatsheets](https://github.com/topics/denny-cheatsheets)
 
-**Living In USA CheatSheet**: https://github.com/DennyZhang/cheatsheet-living-in-us
+**Living In USA CheatSheet**: https://github.com/DennyZhang/cheatsheet-living-in-ca
 
 - Moving From Another State To Canifornia: [moving-to-CA.md](moving-to-CA.org)
 
