@@ -9,7 +9,7 @@ See more CheatSheets from Denny: [#denny-cheatsheets](https://github.com/topics/
 
 **Living In USA CheatSheet**: https://github.com/DennyZhang/cheatsheet-living-in-us
 
-- Moving From One State To Another State: [moving-to-another-state.md](moving-to-another-state.md)
+- Moving From Another State To Canifornia: [moving-to-CA.md](moving-to-CA.org)
 
 License: Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
 

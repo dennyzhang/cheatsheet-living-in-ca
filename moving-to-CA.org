@@ -108,6 +108,8 @@ It’s important to note that different U.S. states have different deadlines for
 *** Update vehicle plate
 ** [#A] Get a new driver’s license
 https://www.dmv.org/ca-california/apply-license.php
+
+https://www.quora.com/How-do-I-transfer-my-drivers-license-to-California-from-another-state
 #+BEGIN_EXAMPLE
 Applying for a California Driver's License
 How to get a driver's license with the California Department of Motor Vehicles (DMV):
@@ -151,3 +153,6 @@ What's involved in moving from one state to another in the US? - Quora
 
 https://www.dmv.org/moving-relocation-checklist.php?from=77007&to=94043&date=2018-06-04&ownership=rent
 Moving Checklist | DMV.ORG
+
+https://www.dmvcheatsheets.com/articles/i-just-moved-to-california-how-do-i-get-my-california-license-and-my-vehicle-registered
+I just moved to California.  How do I get my California license and my vehicle registered? -- DMVCheatSheets.com
