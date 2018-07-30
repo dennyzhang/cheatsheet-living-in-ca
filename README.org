@@ -1,13 +1,57 @@
-* org-mode configuration                                                  :noexport:
+* org-mode configuration                                           :noexport:
 #+STARTUP: overview customtime noalign logdone hidestars
-#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
-#+DRAWERS: HIDDEN CODE CONF EMAIL WEBPAGE SNIP
+#+TITLE:  Living-In-Ca CheatSheet
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+AUTHOR: Denny Zhang
+#+EMAIL:  denny@dennyzhang.com
+#+TAGS: noexport(n)
 #+PRIORITIES: A D C
-#+ARCHIVE: %s_done::** Finished Tasks
-#+AUTHOR: dennyzhang.com (denny@dennyzhang.com)
-#+OPTIONS: creator:nil
-#+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
-* Update Address
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_EXCLUDE_TAGS: exclude noexport
+#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
+#+LINK_UP:   
+#+LINK_HOME: 
+* Summary
+#+BEGIN_HTML
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
+<a href="https://github.com/DennyZhang"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+
+<br/><br/>
+
+<a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+#+END_HTML
+* CheatSheet
+File me [[https://github.com/DennyZhang/cheatsheet-living-in-ca/issues][Issues]] or star [[https://github.com/DennyZhang/cheatsheet-living-in-ca][this repo]].
+
+See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
+
+**Living In USA CheatSheet**: https://github.com/DennyZhang/cheatsheet-living-in-ca
+* More Resources
+License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
+
+#+BEGIN_EXAMPLE
+https://www.quora.com/Whats-involved-in-moving-from-one-state-to-another-in-the-US
+
+What's involved in moving from one state to another in the US? - Quora
+
+https://www.dmv.org/moving-relocation-checklist.php?from=77007&to=94043&date=2018-06-04&ownership=rent
+Moving Checklist | DMV.ORG
+
+https://www.dmvcheatsheets.com/articles/i-just-moved-to-california-how-do-i-get-my-california-license-and-my-vehicle-registered
+I just moved to California.  How do I get my California license and my vehicle registered? -- DMVCheatSheets.com
+#+END_EXAMPLE
+
+#+BEGIN_HTML
+<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+
+<a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
+#+END_HTML
+* #  --8<-------------------------- separator ------------------------>8-- :noexport:
+* Update Address                                                   :noexport:
 ** HALF Register your new address in the new state with the United States Postal Service (USPS).
 https://www.mymovingreviews.com/move/change-address-when-moving
 
@@ -25,7 +69,7 @@ Most non-U.S. citizens must report a change of address within 10 days of moving 
 
 The primary purpose for collecting your case receipt number is to provide you with a status update and estimated processing times for a pending immigration benefit application or petition.
 ** Update billing address of credit cards
-* Update Vehicle
+* Update Vehicle                                                   :noexport:
 ** Change auto insurance
 ** car smog certificate
 https://www.dmv.org/ca-california/smog-check.php
@@ -138,21 +182,12 @@ https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/exam
 ** Change your address on the State of California DMV website
 https://yogov.org/dmv/california/need-change-address-california-drivers-license/
 https://www.dmv.ca.gov/portal/dmv
-* Update address in your employer's system
-* Change Health care providers
+* Update address in your employer's system                         :noexport:
+<* Change Health care providers                                     :noexport:
 https://www.mymovingreviews.com/move/move-from-one-state-to-another
 #+BEGIN_EXAMPLE
 Health care providers. Moving to another state also means that you’re expected to find new health care providers for you and your family members, including your pet. Remember that your health, and the health of the people around you, is a top priority no matter what happens.
 
 Regardless of whether you’ll be looking for primary care doctors, specialized doctors or licensed vets, you will need the necessary documentation for the registration process. Usually, the required documents are medical records and vaccination papers which you should have requested from your old physician and veterinarian prior to the actual move.
 #+END_EXAMPLE
-* useful link
-https://www.quora.com/Whats-involved-in-moving-from-one-state-to-another-in-the-US
 
-What's involved in moving from one state to another in the US? - Quora
-
-https://www.dmv.org/moving-relocation-checklist.php?from=77007&to=94043&date=2018-06-04&ownership=rent
-Moving Checklist | DMV.ORG
-
-https://www.dmvcheatsheets.com/articles/i-just-moved-to-california-how-do-i-get-my-california-license-and-my-vehicle-registered
-I just moved to California.  How do I get my California license and my vehicle registered? -- DMVCheatSheets.com
