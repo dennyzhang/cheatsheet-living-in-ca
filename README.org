@@ -47,7 +47,6 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
  #+END_HTML
 * org-mode configuration                                           :noexport:
 #+STARTUP: overview customtime noalign logdone showall
-#+TITLE:  Living-In-Ca CheatSheet
 #+DESCRIPTION: 
 #+KEYWORDS: 
 #+AUTHOR: Denny Zhang
