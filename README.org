@@ -69,7 +69,7 @@ http://usps.com/move
 It will charge you for $1
 https://www.mymovingreviews.com/move/move-from-one-state-to-another
 #+BEGIN_EXAMPLE
-Change of address. You’re moving from one state to another state, and that automatically means that your postal address will change too. So, you’re going to have to register your new address in the new state with the United States Postal Service (USPS).
+Change of address. You're moving from one state to another state, and that automatically means that your postal address will change too. So, you're going to have to register your new address in the new state with the United States Postal Service (USPS).
 #+END_EXAMPLE
 ** HALF notify U.S. Citizenship and Immigration Services (US CIS) of any change of address (Form AR-11) within 10 days of a move
 https://www.uscis.gov/addresschange
@@ -154,12 +154,12 @@ For more details, please see below.
 https://www.mymovingreviews.com/move/move-from-one-state-to-another
 https://yogov.org/dmv/california/need-change-address-california-drivers-license/
 #+BEGIN_EXAMPLE
-Car registration. If you’re wondering whether you are required to register your car after moving to a new state, the short answer is YES. Regrettably, you won’t be able to complete this task online, so you’ll really need to find time in your busy schedule and do it in person at a local DMV office.
+Car registration. If you're wondering whether you are required to register your car after moving to a new state, the short answer is YES. Regrettably, you won't be able to complete this task online, so you'll really need to find time in your busy schedule and do it in person at a local DMV office.
 
-It’s important to note that different U.S. states have different deadlines for vehicle registration – some will give you one month to do it, while others require you to do it within 10 days (Florida). Contact the nearest DMV office to learn what documents you will need for the registration process – note that a car insurance policy, purchased from the destination state, is a must.
+It's important to note that different U.S. states have different deadlines for vehicle registration - some will give you one month to do it, while others require you to do it within 10 days (Florida). Contact the nearest DMV office to learn what documents you will need for the registration process - note that a car insurance policy, purchased from the destination state, is a must.
 #+END_EXAMPLE
 *** Update vehicle plate
-** [#A] Get a new driver’s license
+** [#A] Get a new driver's license
 https://www.dmv.org/ca-california/apply-license.php
 
 https://www.quora.com/How-do-I-transfer-my-drivers-license-to-California-from-another-state
@@ -180,7 +180,7 @@ Note, however, that the California DMV will most likely waive your driving exam 
 
 https://www.moving.com/tips/your-checklist-for-moving-to-another-state/
 #+BEGIN_EXAMPLE
-Want to drive in your new state? You’ll need a new driver’s license from your state’s DMV. Be sure to check your state’s requirements, as many states require new residents to obtain their driver’s license within a specific time window after moving. Keep in mind that while requirements for transferring a driver’s license vary from state to state, you’ll most likely need a driver’s license, proof of residency, proof of your social security number and an additional form of identification.
+Want to drive in your new state? You'll need a new driver's license from your state's DMV. Be sure to check your state's requirements, as many states require new residents to obtain their driver's license within a specific time window after moving. Keep in mind that while requirements for transferring a driver's license vary from state to state, you'll most likely need a driver's license, proof of residency, proof of your social security number and an additional form of identification.
 #+END_EXAMPLE
 *** Samples of Driver License Knowledge Tests
 https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/exam
@@ -195,8 +195,102 @@ https://www.dmv.ca.gov/portal/dmv
 <* Change Health care providers                                     :noexport:
 https://www.mymovingreviews.com/move/move-from-one-state-to-another
 #+BEGIN_EXAMPLE
-Health care providers. Moving to another state also means that you’re expected to find new health care providers for you and your family members, including your pet. Remember that your health, and the health of the people around you, is a top priority no matter what happens.
+Health care providers. Moving to another state also means that you're expected to find new health care providers for you and your family members, including your pet. Remember that your health, and the health of the people around you, is a top priority no matter what happens.
 
-Regardless of whether you’ll be looking for primary care doctors, specialized doctors or licensed vets, you will need the necessary documentation for the registration process. Usually, the required documents are medical records and vaccination papers which you should have requested from your old physician and veterinarian prior to the actual move.
+Regardless of whether you'll be looking for primary care doctors, specialized doctors or licensed vets, you will need the necessary documentation for the registration process. Usually, the required documents are medical records and vaccination papers which you should have requested from your old physician and veterinarian prior to the actual move.
 #+END_EXAMPLE
+* Dentist in bay area
+Mostly for Chinese community
+** For Your Smile Dental-Shiying Zou D.D.S
+333 W El Camino Real, Sunnyvale, CA 94087
 
+foryoursmiledental.com
+(408) 739-5858
+#+BEGIN_EXAMPLE
+Thursday
+9AM–6PM
+
+Friday
+9AM–6PM
+
+Saturday
+9AM–5PM
+
+Sunday
+Closed
+
+Monday
+(Labor Day)
+Closed
+Hours might differ
+
+Tuesday
+9AM–6PM
+
+Wednesday
+9AM–6PM
+#+END_EXAMPLE
+** CANCELED Dr. David C. Li DDS - fully booked for weekends
+   CLOSED: [2018-08-30 Thu 10:28]
+
+990 W Fremont Ave # Q, Sunnyvale, CA 94087
+
+smileplanner.com
+
+(408) 738-2030
+
+#+BEGIN_EXAMPLE
+Thursday
+9AM-6PM
+
+Friday
+9AM-6PM
+
+Saturday
+9AM-6PM
+
+Sunday
+Closed
+
+Monday
+(Labor Day)
+9AM-6PM
+Hours might differ
+
+Tuesday
+9AM-6PM
+
+Wednesday
+9AM-6PM
+#+END_EXAMPLE
+** Dr. Yuan Tao
+877 W Fremont Ave C 2, Sunnyvale, CA 94087
+
+https://www.dentaltao.com/
+
+Phone: (408) 737-2988
+
+#+BEGIN_EXAMPLE
+Thursday
+Closed
+
+Friday
+8:30AM-5:30PM
+
+Saturday
+9AM-4PM
+
+Sunday
+Closed
+
+Monday
+(Labor Day)
+Closed
+Hours might differ
+
+Tuesday
+8:30AM-5:30PM
+
+Wednesday
+8:30AM-5:30PM
+#+END_EXAMPLE 
