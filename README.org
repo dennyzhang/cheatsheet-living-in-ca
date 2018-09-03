@@ -22,29 +22,6 @@ File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]]
 See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
 
 **Living In USA CheatSheet**: https://github.com/dennyzhang/cheatsheet-living-in-ca
-** More Resources
- License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
-
- #+BEGIN_EXAMPLE
- https://www.quora.com/Whats-involved-in-moving-from-one-state-to-another-in-the-US
-
- What's involved in moving from one state to another in the US? - Quora
-
- https://www.dmv.org/moving-relocation-checklist.php?from=77007&to=94043&date=2018-06-04&ownership=rent
- Moving Checklist | DMV.ORG
-
- https://www.dmvcheatsheets.com/articles/i-just-moved-to-california-how-do-i-get-my-california-license-and-my-vehicle-registered
- I just moved to California.  How do I get my California license and my vehicle registered? -- DMVCheatSheets.com
- #+END_EXAMPLE
-
- #+BEGIN_HTML
- <a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
- <a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
-
- <a href="https://www.linkedin.com/in/dennyzhang001"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
- <a href="https://github.com/dennyzhang"><img align="bottom"src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
- <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
- #+END_HTML
 * org-mode configuration                                           :noexport:
 #+STARTUP: overview customtime noalign logdone showall
 #+DESCRIPTION: 
@@ -199,7 +176,7 @@ Health care providers. Moving to another state also means that you're expected t
 
 Regardless of whether you'll be looking for primary care doctors, specialized doctors or licensed vets, you will need the necessary documentation for the registration process. Usually, the required documents are medical records and vaccination papers which you should have requested from your old physician and veterinarian prior to the actual move.
 #+END_EXAMPLE
-* Dentist in bay area
+* Dentist in bay area                                              :noexport:
 Mostly for Chinese community
 ** For Your Smile Dental-Shiying Zou D.D.S
 333 W El Camino Real, Sunnyvale, CA 94087
@@ -296,23 +273,52 @@ Wednesday
 #+END_EXAMPLE 
 ** get dental member ID card                                       :noexport:
 https://www.deltadental.com/us/en/homepage.html
-
 * Program new chip key for your vhicle
-** Place order in amazon, which fits your model
+- Place order in amazon, which fits your model
+#+BEGIN_EXAMPLE
 https://www.amazon.com/OEM-Toyota-Chip-Transponder-Key/dp/B076TBB91G/ref=pd_sbs_263_5?_encoding=UTF8&pd_rd_i=B076TBB91G&pd_rd_r=a6b43d41-ae40-11e8-bcdb-932140fb8169&pd_rd_w=RkL0x&pd_rd_wg=co2bf&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=0bb14103-7f67-4c21-9b0b-31f42dc047e7&pf_rd_r=EZDSV1HEG3BADCG62TVD&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=EZDSV1HEG3BADCG62TVD
 
 OEM Toyota "H" Chip Transponder Key (P/N: 89785-0D140, 89785-0D170)
 $23.83
 
 https://www.amazon.com/Replacement-Toyota-Corolla-HYQ12BEL-89070-02880/dp/B010NZ5WK4
-
 Price:	$39.00 
+#+END_EXAMPLE
 
-** Go to homedepo to cut the key
-** Program the key by yourself
+- Go to homedepo to cut the key
+- Program the key by yourself
+#+BEGIN_EXAMPLE
 Youtube: how to program new chip key for your toyota
 
 https://www.youtube.com/watch?v=0Mbu_YDHGqc
 
 5 times, 6 times
+#+END_EXAMPLE
 ** call: 855-828-9999                                              :noexport:
+* Shell gas station with discount applied
+- Pay by cash
+- Use shell mobile app and input member card number
+* More Resources
+License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
+
+#+BEGIN_EXAMPLE
+https://www.quora.com/Whats-involved-in-moving-from-one-state-to-another-in-the-US
+
+What's involved in moving from one state to another in the US? - Quora
+
+https://www.dmv.org/moving-relocation-checklist.php?from=77007&to=94043&date=2018-06-04&ownership=rent
+Moving Checklist | DMV.ORG
+
+https://www.dmvcheatsheets.com/articles/i-just-moved-to-california-how-do-i-get-my-california-license-and-my-vehicle-registered
+I just moved to California.  How do I get my California license and my vehicle registered? -- DMVCheatSheets.com
+#+END_EXAMPLE
+
+#+BEGIN_HTML
+<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+<a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
+
+<a href="https://www.linkedin.com/in/dennyzhang001"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/dennyzhang"><img align="bottom"src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
+#+END_HTML
+
