@@ -1,9 +1,8 @@
 * CheatSheet: Living In Canifornia                                                     :Life:
 :PROPERTIES:
 :type:     bayarea
+:export_file_name: cheatsheet-living-in-ca.pdf
 :END:
-
-Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-CA, Category: [[https://cheatsheet.dennyzhang.com/category/life/][life]]
 
 #+BEGIN_HTML
 <a href="https://github.com/dennyzhang/cheatsheet-living-in-ca"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
@@ -16,6 +15,10 @@ Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-CA, Category: [
 <br/><br/>
 <a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 #+END_HTML
+
+- PDF Link: [[https://github.com/dennyzhang/cheatsheet-living-in-ca/blob/master/cheatsheet-living-in-ca.pdf][cheatsheet-living-in-ca.pdf]]
+- Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-CA
+- Category: [[https://cheatsheet.dennyzhang.com/category/life/][life]]
 
 File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]] or star [[https://github.com/DennyZhang/cheatsheet-living-in-ca][this repo]].
 
