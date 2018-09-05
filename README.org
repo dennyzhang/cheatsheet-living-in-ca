@@ -17,7 +17,7 @@
 #+END_HTML
 
 - PDF Link: [[https://github.com/dennyzhang/cheatsheet-living-in-ca/blob/master/cheatsheet-living-in-ca.pdf][cheatsheet-living-in-ca.pdf]]
-- Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-CA
+- Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca
 - Category: [[https://cheatsheet.dennyzhang.com/category/life/][life]]
 
 File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]] or star [[https://github.com/DennyZhang/cheatsheet-living-in-ca][this repo]].
@@ -29,6 +29,17 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
 #+STARTUP: overview customtime noalign logdone showall
 #+DESCRIPTION: 
 #+KEYWORDS: 
+#+LATEX_HEADER: \usepackage[margin=0.6in]{geometry}
+#+LaTeX_CLASS_OPTIONS: [8pt]
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \usepackage{lastpage}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \fancyhf{}
+#+LATEX_HEADER: \rhead{Updated: \today}
+#+LATEX_HEADER: \rfoot{\thepage\ of \pageref{LastPage}}
+#+LATEX_HEADER: \lfoot{\href{https://github.com/dennyzhang/cheatsheet-living-in-ca}{GitHub: https://github.com/dennyzhang/cheatsheet-living-in-ca}}
+#+LATEX_HEADER: \lhead{\href{https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}{Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}}
 #+AUTHOR: Denny Zhang
 #+EMAIL:  denny@dennyzhang.com
 #+TAGS: noexport(n)
@@ -324,4 +335,3 @@ I just moved to California.  How do I get my California license and my vehicle r
 <a href="https://github.com/dennyzhang"><img align="bottom"src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
 #+END_HTML
-
