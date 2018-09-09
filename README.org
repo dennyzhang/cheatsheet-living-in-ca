@@ -25,18 +25,44 @@ File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]]
 See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
 
 **Living In USA CheatSheet**: https://github.com/dennyzhang/cheatsheet-living-in-ca
-** California DMV For Driver License
+** Move from another state to CA: update your vehicle information
+https://www.dmv.ca.gov/portal/dmv/dmv/vr/
+
+https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
+
+*** Register Your Vehicle in California
+- *A nonresident vehicle* is a vehicle last registered in another state or country.
+
+| Form                                                             | Summary |
+|------------------------------------------------------------------+---------|
+| reg343 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg343][Application for Title or Registration REG 343 (PDF)]] |         |
+| reg31 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][Verification of Vehicle (REG 31) form]]                |         |
+
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/register_vehicle.png]]
+
+#+BEGIN_EXAMPLE
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/howto/htvr09#feesdue
+
+https://www.dmv.org/ca-california/car-registration.php
+
+https://www.dmv.org/ca-california/new-to-california.php
+#+END_EXAMPLE
+
+*** Get a new license plate
+https://www.dmv.ca.gov/portal/dmv/detail/vr/vr_info
+
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/substitute-plates.png]]
+
+*** Report a change of address to DMV within 10 days of the change
+https://www.dmv.ca.gov/portal/dmv/detail/vr/vr_info
+** Prepare for California DMV Driver License Written Tests
 - Appointments can be made at www.dmv.ca.gov or by calling 1-800-777-0133
-| Name                                                 | Comment                               |
-|------------------------------------------------------+---------------------------------------|
-| Sample Class C Written Test 1                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc2written?lang=en][DMV link]]                              |
-| Sample Class C Written Test 2                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc3written?lang=en][DMV link]]                              |
-| Sample Class C Written Test 3                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc4written?lang=en][DMV link]]                              |
-| Sample Class C Written Test 4                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en][DMV link]]                              |
-| Sample Class C Written Test 5                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc6written?lang=en][DMV link]]                              |
-| FREE DMV Practice Test for California Permit 2018    | [[https://driving-tests.org/california/dmv-practice-test/][link: driving-tests.org]]               |
-| California DMV Marathon Practice Test(150 Questions) | [[https://driving-tests.org/california/california-marathon-practice-test/][link: driving-tests.org]]               |
-| California Driver Handbook                           | [[https://www.dmv.ca.gov/web/eng_pdf/dl600.pdf][link: dmv pdf]]                         |
+| Name                                                 | Comment                           |
+|------------------------------------------------------+-----------------------------------|
+| Sample Class C Written Tests from DMV                | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc2written?lang=en][Test1]], [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc3written?lang=en][Test2]], [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc4written?lang=en][Test3]], [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en][Test4]], [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc6written?lang=en][Test5]] |
+| FREE DMV Practice Test for California Permit 2018    | [[https://driving-tests.org/california/dmv-practice-test/][link: driving-tests.org]]           |
+| California DMV Marathon Practice Test(150 Questions) | [[https://driving-tests.org/california/california-marathon-practice-test/][link: driving-tests.org]]           |
+| California Driver Handbook                           | [[https://www.dmv.ca.gov/web/eng_pdf/dl600.pdf][link: dmv pdf]]                     |
 
 *** Driver License
 https://www.dmv.ca.gov/portal/dmv/dmv/dl
@@ -96,31 +122,6 @@ Any vehicle with 3 or more axles or weighing more than 4,000 pounds.
 
 https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en
 #+END_EXAMPLE
-** Vehicle Registration and Title Information
-https://www.dmv.ca.gov/portal/dmv/dmv/vr/
-
-https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
-
-*** Register Your Vehicle in California
-- A nonresident vehicle is a vehicle last registered in another state or country.
-
-| Form        | Summary                                             |
-|-------------+-----------------------------------------------------|
-| reg343 form | [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg343][Application for Title or Registration REG 343 (PDF)]] |
-| reg31 form  | [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][link: Verification of Vehicle (REG 31) form]]         |
-
-https://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/howto/htvr09#feesdue
-
-https://www.dmv.org/ca-california/car-registration.php
-
-https://www.dmv.org/ca-california/new-to-california.php
-
-[[https://raw.githubusercontent.com/DennyZhang/cheatsheet.dennyzhang.com/master/cheatsheet-living-in-ca/register_vehicle.png][Register A Vehicle from Out-of-State]]
-
-*** Get a new license plate
-
-*** Report a change of address to DMV within 10 days of the change
-https://www.dmv.ca.gov/portal/dmv/detail/vr/vr_info
 ** Shell gas station with discount applied
 1. Pay by cash
 - Use shell mobile app and input member card number
