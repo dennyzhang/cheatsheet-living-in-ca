@@ -25,6 +25,101 @@ File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]]
 See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
 
 **Living In USA CheatSheet**: https://github.com/dennyzhang/cheatsheet-living-in-ca
+** California DMV For Driver License
+- Appointments can be made at www.dmv.ca.gov or by calling 1-800-777-0133
+| Name                                                 | Comment                               |
+|------------------------------------------------------+---------------------------------------|
+| Sample Class C Written Test 1                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc2written?lang=en][DMV link]]                              |
+| Sample Class C Written Test 2                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc3written?lang=en][DMV link]]                              |
+| Sample Class C Written Test 3                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc4written?lang=en][DMV link]]                              |
+| Sample Class C Written Test 4                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en][DMV link]]                              |
+| Sample Class C Written Test 5                        | [[https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc6written?lang=en][DMV link]]                              |
+| FREE DMV Practice Test for California Permit 2018    | [[https://driving-tests.org/california/dmv-practice-test/][link: driving-tests.org]]               |
+| California DMV Marathon Practice Test(150 Questions) | [[https://driving-tests.org/california/california-marathon-practice-test/][link: driving-tests.org]]               |
+| California Driver Handbook                           | [[https://www.dmv.ca.gov/web/eng_pdf/dl600.pdf][link: dmv pdf]]                         |
+
+*** Driver License
+https://www.dmv.ca.gov/portal/dmv/dmv/dl
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/fast_facts/ffdl05
+
+https://www.dmv.ca.gov/portal/wcm/connect/a34dbefd-c615-4c07-a271-b135850de9d1/Residency_DocsList.pdf?MOD=AJPERES
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/fast_facts/ffdl07
+*** Vehicle Registration and Title Information
+https://www.dmv.ca.gov/portal/dmv/dmv/vr/
+
+https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
+*** Interesting Questions
+#+BEGIN_EXAMPLE
+3. You have been involved in a minor traffic collision with a parked vehicle and you can't find the owner. You must:
+
+Leave a note on the vehicle.
+Report the accident without delay to the city police or, in unincorporated areas, to the CHP.
+Both of the above.
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc3written?lang=en
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+2. You must notify the DMV within 5 days if you:
+
+Sell or transfer your vehicle.
+Fail a smog test for your vehicle.
+Get a new prescription for lenses or contacts.
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc4written?lang=en
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+6. It is illegal to park your vehicle:
+
+In an unmarked crosswalk.
+Within three feet of a private driveway.
+In a bicycle lane.
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc4written?lang=en
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+3. You are driving on a freeway posted for 65 mph. Most of the other vehicles are driving 70 mph or faster. You may legally drive:
+
+70 mph or faster to keep up with the speed of traffic.
+Between 65 mph and 70 mph.
+No faster than 65 mph.
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+5. Which of these vehicles must always stop before crossing railroad tracks?
+
+Tank trucks marked with hazardous materials placards.
+Motor homes or pickup trucks towing a boat trailer.
+Any vehicle with 3 or more axles or weighing more than 4,000 pounds.
+
+https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en
+#+END_EXAMPLE
+** Shell gas station with discount applied
+1. Pay by cash
+- Use shell mobile app and input member card number
+** Program new chip key for your vhicle
+1. Place order in amazon, which fits your model
+- Go to homedepo to cut the key
+- Program the key by yourself
+
+[[https://www.amazon.com/OEM-Toyota-Chip-Transponder-Key/dp/B076TBB91G/ref=pd_sbs_263_5?_encoding=UTF8&pd_rd_i=B076TBB91G&pd_rd_r=a6b43d41-ae40-11e8-bcdb-932140fb8169&pd_rd_w=RkL0x&pd_rd_wg=co2bf&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=0bb14103-7f67-4c21-9b0b-31f42dc047e7&pf_rd_r=EZDSV1HEG3BADCG62TVD&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=EZDSV1HEG3BADCG62TVD][amazon link]]: OEM Toyota "H" Chip Transponder Key (P/N: 89785-0D140, 89785-0D170), $23.83
+
+[[https://www.amazon.com/Replacement-Toyota-Corolla-HYQ12BEL-89070-02880/dp/B010NZ5WK4][amazon link]]: Price: $39.00 
+
+[[https://www.youtube.com/watch?v=0Mbu_YDHGqc][Youtube link]]: how to program new chip key for your toyota: 
+
+*** call: 855-828-9999                                             :noexport:
+** US govement documents
+| Name      | Summary                      |
+|-----------+------------------------------|
+| I-94 form | https://i94.cbp.dhs.gov/I94/ |
+
 * org-mode configuration                                           :noexport:
 #+STARTUP: overview customtime noalign logdone showall
 #+DESCRIPTION: 
@@ -287,31 +382,6 @@ Wednesday
 #+END_EXAMPLE 
 ** get dental member ID card                                       :noexport:
 https://www.deltadental.com/us/en/homepage.html
-* Program new chip key for your vhicle
-- Place order in amazon, which fits your model
-#+BEGIN_EXAMPLE
-https://www.amazon.com/OEM-Toyota-Chip-Transponder-Key/dp/B076TBB91G/ref=pd_sbs_263_5?_encoding=UTF8&pd_rd_i=B076TBB91G&pd_rd_r=a6b43d41-ae40-11e8-bcdb-932140fb8169&pd_rd_w=RkL0x&pd_rd_wg=co2bf&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=0bb14103-7f67-4c21-9b0b-31f42dc047e7&pf_rd_r=EZDSV1HEG3BADCG62TVD&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=EZDSV1HEG3BADCG62TVD
-
-OEM Toyota "H" Chip Transponder Key (P/N: 89785-0D140, 89785-0D170)
-$23.83
-
-https://www.amazon.com/Replacement-Toyota-Corolla-HYQ12BEL-89070-02880/dp/B010NZ5WK4
-Price:	$39.00 
-#+END_EXAMPLE
-
-- Go to homedepo to cut the key
-- Program the key by yourself
-#+BEGIN_EXAMPLE
-Youtube: how to program new chip key for your toyota
-
-https://www.youtube.com/watch?v=0Mbu_YDHGqc
-
-5 times, 6 times
-#+END_EXAMPLE
-** call: 855-828-9999                                              :noexport:
-* Shell gas station with discount applied
-- Pay by cash
-- Use shell mobile app and input member card number
 * More Resources
 License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 
