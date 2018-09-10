@@ -39,23 +39,33 @@ https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
 | reg31 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][Verification of Vehicle (REG 31) form]]          | Need to be filed by DMV |
 
 - Terminology
-| Name                    | Summary                                                                         |
-|-------------------------+---------------------------------------------------------------------------------|
-| Turnout area            | You may pull to the side in these areas and allow cars behind you to pass. [[https://driversed.com/driving-information/driving-techniques/turnout-areas.aspx][link]] |
-| White curb              | You may stop only long enough to pick up or drop off passengers or mail         |
-| hand-over-hand steering |                                                                                 |
-| NEV                     | neighborhood electric vehicles                                                  |
-| LSV                     | Low speed vehicles                                                              |
+| Name                    | Summary                                                                                            |
+|-------------------------+----------------------------------------------------------------------------------------------------|
+| Skid                    | automobiles slip relative to the road [[https://en.wikipedia.org/wiki/Skid_(automobile)][link: wikipedia]]                                              |
+| Turnout area            | You may pull to the side in these areas and allow cars behind you to pass. [[https://driversed.com/driving-information/driving-techniques/turnout-areas.aspx][link]]                    |
+| White curb              | You may stop only long enough to pick up or drop off passengers or mail                            |
+| hand-over-hand steering | used when turning at low speeds, parking or recovering from a skid                                 |
+| one-hand steering       |                                                                                                    |
+| three-point turn        | standard method of turning vehicles around to face the opposite direction in a limited space. [[https://en.wikipedia.org/wiki/Three-point_turn][link]] |
+| NEV                     | neighborhood electric vehicles                                                                     |
+| LSV                     | Low speed vehicles                                                                                 |
 
 Limits:
 
 - Before changing lanes on a freeway, you should signal for at least 5 seconds
 - Within 500-1000 feet of a school, the speed limit is 25 mph while children are outside
+- When approaching intersections with the traffic lights not working, you must come to a complete stop first
 
+hand-over-hand-steering:
 [[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/hand-over-hand-steering.jpg]]
 
+one-hand-steering:
 [[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/one-hand-steering.jpg]]
 
+three-point-turn:
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/three-point-turn.png]]
+
+cone-zone:
 [[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/cone-zone.png]]
 
 [[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/register_vehicle.png]]
