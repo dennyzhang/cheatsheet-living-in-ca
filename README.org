@@ -38,37 +38,7 @@ https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
 | reg343 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg343][Application for Title or Registration REG 343]] |                         |
 | reg31 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][Verification of Vehicle (REG 31) form]]          | Need to be filed by DMV |
 
-- Terminology
-| Name                    | Summary                                                                                            |
-|-------------------------+----------------------------------------------------------------------------------------------------|
-| Skid                    | automobiles slip relative to the road [[https://en.wikipedia.org/wiki/Skid_(automobile)][link: wikipedia]]                                              |
-| Turnout area            | You may pull to the side in these areas and allow cars behind you to pass. [[https://driversed.com/driving-information/driving-techniques/turnout-areas.aspx][link]]                    |
-| White curb              | You may stop only long enough to pick up or drop off passengers or mail                            |
-| hand-over-hand steering | used when turning at low speeds, parking or recovering from a skid                                 |
-| one-hand steering       |                                                                                                    |
-| three-point turn        | standard method of turning vehicles around to face the opposite direction in a limited space. [[https://en.wikipedia.org/wiki/Three-point_turn][link]] |
-| NEV                     | neighborhood electric vehicles                                                                     |
-| LSV                     | Low speed vehicles                                                                                 |
-
-Limits:
-
-- Before changing lanes on a freeway, you should signal for at least 5 seconds
-- Within 500-1000 feet of a school, the speed limit is 25 mph while children are outside
-- When approaching intersections with the traffic lights not working, you must come to a complete stop first
-
-hand-over-hand-steering:
-[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/hand-over-hand-steering.jpg]]
-
-one-hand-steering:
-[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/one-hand-steering.jpg]]
-
-three-point-turn:
-[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/three-point-turn.png]]
-
-cone-zone:
-[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/cone-zone.png]]
-
-[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/register_vehicle.png]]
+https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/register_vehicle.png]]
 
 #+BEGIN_EXAMPLE
 https://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/howto/htvr09#feesdue
@@ -93,6 +63,68 @@ https://www.dmv.ca.gov/portal/dmv/detail/vr/vr_info
 | FREE DMV Practice Test for California Permit 2018    | [[https://driving-tests.org/california/dmv-practice-test/][link: driving-tests.org]]           |
 | California DMV Marathon Practice Test(150 Questions) | [[https://driving-tests.org/california/california-marathon-practice-test/][link: driving-tests.org]]           |
 | California Driver Handbook                           | [[https://www.dmv.ca.gov/web/eng_pdf/dl600.pdf][link: dmv pdf]]                     |
+
+- Limits & Fining
+| Name                     | Summary                                                                                      |
+|--------------------------+----------------------------------------------------------------------------------------------|
+| The fine of litering     | $1,000, in addition, you may be required to pick up what littered                            |
+| Change lanes on freeway  | You should signal for at least 5 seconds                                                     |
+| Tailgating               | To avoid tailgating, leave 3 second of space between you and the vehicle in front of you     |
+| Enter school zones       | Within 500-1000 feet of a school, the speed limit is 25 mph while children are outside       |
+| Make changes             | To avoid last-minute moves, look down the road 10-15 seconds                                 |
+| park near fire hydrant   | You can't part within 15 feet of a fire hydrant                                              |
+| Park near railroad track | You must not park within 7.5 feet of a railroad track                                        |
+| drive close to cicyclist | You must ensure there is more than 3 feet width for cyclist                                  |
+| Turn a corner            | You should signal for at least 100 feet.                                                     |
+| Follow emergency vehcile | You must not follow within 400 feet of any emergency vehcile with a siren or flashing lights |
+| Use center lane          | While driving in a center left-turn lane, you may only drive for 200 feet.                   |
+
+- Parking at colored curbs
+| Name       | Summary                                                                                 |
+|------------+-----------------------------------------------------------------------------------------|
+| White curb | Stop only long enough to pick up or drop off passengers or mail.                        |
+| Green      | Park for a limited time. Look for a posted sign next to the green zone for time limits. |
+| Yellow     | Stop no longer than the time posted to load or unload passengers or freight.            |
+| Red        | No stopping, standing, or parking. (Buses may stop at a red zone marked for buses.)     |
+| Blue       | Parking for disabled people only                                                        |
+
+- Terminology
+| Name                             | Summary                                                                                            |
+|----------------------------------+----------------------------------------------------------------------------------------------------|
+| Skid                             | automobiles slip relative to the road [[https://en.wikipedia.org/wiki/Skid_(automobile)][link: wikipedia]]                                              |
+| California "Basic Speed Law"     | You must never driver faster than what is safe in current conditions                               |
+| Turnout area                     | You may pull to the side in these areas and allow cars behind you to pass. [[https://driversed.com/driving-information/driving-techniques/turnout-areas.aspx][link]]                    |
+| a flashing yellow traffic signal | No need to stop, but slow down and alerted before entering intersection                            |
+| a flashing red traffic signal    | Treat like a STOP sign. stop, yield and only proceed when it's safe                                |
+| a nighttime reflector            | It shows where the road lies                                                                       |
+| hand-over-hand steering          | used when turning at low speeds, parking or recovering from a skid                                 |
+| one-hand steering                | You can use when you're backing up without much turning                                            |
+| three-point turn                 | standard method of turning vehicles around to face the opposite direction in a limited space. [[https://en.wikipedia.org/wiki/Three-point_turn][link]] |
+| DUI probation                    |                                                                                                    |
+| NEV                              | neighborhood electric vehicles                                                                     |
+| LSV                              | Low speed vehicles                                                                                 |
+| HOV lane(High-Occupancy Vehicle) | Designed for buses, motorcycles, certain low-emission vehicles and 2+ passengers                   |
+
+- Misc
+| Name                       | Summary                                                         |
+|----------------------------+-----------------------------------------------------------------|
+| Traffic lights not working | You need to come to a complete stop first                       |
+| Use horn                   | You may tap horn to try to make eye contact with another driver |
+
+hand-over-hand-steering:
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/hand-over-hand-steering.jpg]]
+
+one-hand-steering:
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/one-hand-steering.jpg]]
+
+three-point-turn:
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/three-point-turn.png]]
+
+cone-zone:
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/cone-zone.png]]
+
+signal-hands:
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/signal-hands.png]]
 
 *** Driver License
 https://www.dmv.ca.gov/portal/dmv/dmv/dl
