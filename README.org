@@ -39,16 +39,22 @@ https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
 | reg31 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][Verification of Vehicle (REG 31) form]]          | Need to be filed by DMV |
 
 - Terminology
-| Name | Summary                        |
-|------+--------------------------------|
-| NEV  | neighborhood electric vehicles |
-| LSV  | Low speed vehicles             |
-|      |                                |
+| Name                    | Summary                                                                         |
+|-------------------------+---------------------------------------------------------------------------------|
+| Turnout area            | You may pull to the side in these areas and allow cars behind you to pass. [[https://driversed.com/driving-information/driving-techniques/turnout-areas.aspx][link]] |
+| White curb              | You may stop only long enough to pick up or drop off passengers or mail         |
+| hand-over-hand steering |                                                                                 |
+| NEV                     | neighborhood electric vehicles                                                  |
+| LSV                     | Low speed vehicles                                                              |
 
 Limits:
 
-- Before changing lanes on a freeway, you should signal for at least 5 seconds.
-- If the curb is painted white, you may stop only long enough to pick up or drop off passengers or mail
+- Before changing lanes on a freeway, you should signal for at least 5 seconds
+- Within 500-1000 feet of a school, the speed limit is 25 mph while children are outside
+
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/hand-over-hand-steering.jpg]]
+
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/one-hand-steering.jpg]]
 
 [[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/cone-zone.png]]
 
