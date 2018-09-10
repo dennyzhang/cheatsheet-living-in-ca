@@ -31,12 +31,26 @@ https://www.dmv.ca.gov/portal/dmv/dmv/vr/
 https://www.dmv.ca.gov/portal/dmv/detail/online/vrir/vr_sb1500anu
 
 *** Register Your Vehicle in California
-- *A nonresident vehicle* is a vehicle last registered in another state or country.
+*A nonresident vehicle* is a vehicle last registered in another state or country.
 
-| Form                                                             | Summary |
-|------------------------------------------------------------------+---------|
-| reg343 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg343][Application for Title or Registration REG 343 (PDF)]] |         |
-| reg31 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][Verification of Vehicle (REG 31) form]]                |         |
+| Form                                                       | Summary                 |
+|------------------------------------------------------------+-------------------------|
+| reg343 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg343][Application for Title or Registration REG 343]] |                         |
+| reg31 form: [[https://www.dmv.ca.gov/portal/dmv/detail/forms/reg/reg31][Verification of Vehicle (REG 31) form]]          | Need to be filed by DMV |
+
+- Terminology
+| Name | Summary                        |
+|------+--------------------------------|
+| NEV  | neighborhood electric vehicles |
+| LSV  | Low speed vehicles             |
+|      |                                |
+
+Limits:
+
+- Before changing lanes on a freeway, you should signal for at least 5 seconds.
+- If the curb is painted white, you may stop only long enough to pick up or drop off passengers or mail
+
+[[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/cone-zone.png]]
 
 [[https://raw.githubusercontent.com/DennyZhang/cheatsheet-living-in-ca/master/register_vehicle.png]]
 
