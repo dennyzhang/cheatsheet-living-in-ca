@@ -184,6 +184,23 @@ Any vehicle with 3 or more axles or weighing more than 4,000 pounds.
 
 https://www.dmv.ca.gov/portal/dmv/detail/pubs/interactive/tdrive/clc5written?lang=en
 #+END_EXAMPLE
+As Of: 9/10/2018
+
+** Replacing a Lost Title in Texas
+https://www.txdmv.gov/motorists/buying-or-selling-a-vehicle/get-a-copy-of-your-title
+#+BEGIN_EXAMPLE
+Here are the steps to applying for a certified copy of title by mail:
+
+Complete Form VTR-34, Application for a Certified Copy of Title.
+VTR-34 Application for a Certified Copy of Title
+
+Enclose a copy of the owner's valid photo ID and $2 mail-in fee by check, cashier's check or money order payable to the Texas Department of Motor Vehicles. An agent of the owner or lienholder must also provide a letter of signature authority on original letterhead, a business card or a copy of the agent's employee ID.
+
+Mail the application to:
+TxDMV
+1601 Southwest Parkway, Suite A
+Wichita Falls, TX 76302
+#+END_EXAMPLE
 ** Shell gas station with discount applied
 1. Pay by cash
 - Use shell mobile app and input member card number
