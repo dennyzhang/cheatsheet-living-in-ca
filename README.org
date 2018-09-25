@@ -233,8 +233,8 @@ Wichita Falls, TX 76302
 #+LATEX_HEADER: \fancyhf{}
 #+LATEX_HEADER: \rhead{Updated: \today}
 #+LATEX_HEADER: \rfoot{\thepage\ of \pageref{LastPage}}
-#+LATEX_HEADER: \lfoot{\href{https://github.com/dennyzhang/cheatsheet-living-in-ca}{GitHub: https://github.com/dennyzhang/cheatsheet-living-in-ca}}
-#+LATEX_HEADER: \lhead{\href{https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}{Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}}
+#+LATEX_HEADER: \lfoot{\href{https://github.com/dennyzhang/.*cheatsheet-living-in-ca}{GitHub: https://github.com/dennyzhang/.*cheatsheet-living-in-ca}}
+#+LATEX_HEADER: \lhead{\href{https://cheatsheet.dennyzhang.com/cheatsheet-slack-A4}{Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}}
 #+AUTHOR: Denny Zhang
 #+EMAIL:  denny@dennyzhang.com
 #+TAGS: noexport(n)
