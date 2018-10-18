@@ -203,7 +203,7 @@ Wichita Falls, TX 76302
 ** Shell gas station with discount applied
 1. Pay by cash
 - Use shell mobile app and input member card number
-** Auto maintenance
+** Auto maintenance                                                :noexport:
 *** The Car Doctor
 4.8·67 reviews
 
@@ -217,7 +217,7 @@ https://www.google.com.hk/search?q=Dean%27s+Automotive
 2037 Old Middlefield Way, Mountain View, CA 94043
 deansautomotive.com
 (650) 961-0302
-** Program new chip key for your vhicle
+** Program new chip key for your vhicle                            :noexport:
 1. Place order in amazon, which fits your model
 - Go to homedepo to cut the key
 - Program the key by yourself
@@ -233,7 +233,6 @@ deansautomotive.com
 | Name      | Summary                      |
 |-----------+------------------------------|
 | I-94 form | https://i94.cbp.dhs.gov/I94/ |
-
 * org-mode configuration                                           :noexport:
 #+STARTUP: overview customtime noalign logdone showall
 #+DESCRIPTION: 
