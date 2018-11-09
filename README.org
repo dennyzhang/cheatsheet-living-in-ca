@@ -18,12 +18,10 @@
 
 - PDF Link: [[https://github.com/dennyzhang/cheatsheet-living-in-ca/blob/master/cheatsheet-living-in-ca.pdf][cheatsheet-living-in-ca.pdf]], Category: [[https://cheatsheet.dennyzhang.com/category/life/][life]]
 - Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca
+- Related posts: [[https://cheatsheet.dennyzhang.com/cheatsheet-driver-license-A4][Cheatsheet: Driver License]], [[https://cheatsheet.dennyzhang.com/cheatsheet-travel][Cheatsheet Travel]], [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
 
 File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]] or star [[https://github.com/DennyZhang/cheatsheet-living-in-ca][this repo]].
 
-See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
-
-**Living In USA CheatSheet**: https://github.com/dennyzhang/cheatsheet-living-in-ca
 ** Shell gas station with discount applied
 1. Pay by cash
 - Use shell mobile app and input member card number
