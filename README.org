@@ -22,7 +22,11 @@
 
 File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]] or star [[https://github.com/DennyZhang/cheatsheet-living-in-ca][this repo]].
 
-** Shell gas station with discount applied
+** Local Preference In Bay Area
+| Name     | Store        | Comment                                                                             |
+|----------+--------------+-------------------------------------------------------------------------------------|
+| Hair cut | F8 Quick Cut | Size: 4([[https://www.menshairstylestoday.com/haircut-numbers/][Haircut Numbers]]). Address: 1711-A W EI Camino Real, Mountain View, CA 94040 |
+** Shell gas station with discount applied                         :noexport:
 1. Pay by cash
 - Use shell mobile app and input member card number
 ** Auto maintenance                                                :noexport:
