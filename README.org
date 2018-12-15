@@ -9,7 +9,7 @@
 <div id="the whole thing" style="overflow: hidden;">
 <div style="float: left; padding: 5px"> <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a></div>
 <div style="float: left; padding: 5px"><a href="https://github.com/dennyzhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a></div>
-<div style="float: left; padding: 5px"><a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a></div>
+<div style="float: left; padding: 5px"><a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack"/></a></div>
 </div>
 
 <br/><br/>
@@ -20,9 +20,37 @@
 - Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca
 - Related posts: [[https://cheatsheet.dennyzhang.com/cheatsheet-driver-license-A4][Cheatsheet: Driver License]], [[https://cheatsheet.dennyzhang.com/cheatsheet-travel][Cheatsheet Travel]], [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
 
-File me [[https://github.com/dennyzhang/cheatsheet-living-in-ca/issues][Issues]] or star [[https://github.com/DennyZhang/cheatsheet-living-in-ca][this repo]].
-
-** Local Preference In Bay Area
+File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues]] or star [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com][this repo]].
+** IT Celebrities In Bay Area
+| Name              | Residence     | Summary                                                       |
+|-------------------+---------------+---------------------------------------------------------------|
+| [[https://en.wikipedia.org/wiki/Mark_Zuckerberg][Mark Zuckerberg]]   | Palo Alto, CA | Facebook CEO                                                  |
+| [[https://en.wikipedia.org/wiki/Larry_Page][Larry Page]]        | Palo Alto, CA | Alphabet Inc CEO (Google's parent company)                    |
+| [[https://en.wikipedia.org/wiki/Sergey_Brin][Sergey Brin]]       | Los Altos, CA | Google co-founder                                             |
+| [[https://en.wikipedia.org/wiki/Diane_Greene][Diane Greene]]      |               | Former VMware CEO, Former GCP CEO                             |
+| [[https://en.wikipedia.org/wiki/Marissa_Mayer][Marissa Mayer]]     |               | 20th employee at Google; Former Yahoo CEO                     |
+| [[https://en.wikipedia.org/wiki/Jerry_Yang][Jerry Yang]]        |               | Former CEO of Yahoo                                           |
+| [[https://en.wikipedia.org/wiki/Peter_Thiel][Peter Thiel]]       |               | co-founder of PayPal, Palantir Technologies and Founders Fund |
+| [[https://en.wikipedia.org/wiki/Larry_Ellison][Larry Ellison]]     | Woodside, CA  | Oracle CEO                                                    |
+| Patrick Gelsinger |               | VMware CEO                                                    |
+** Big IT Companies In Bay Area
+| Name          | Headquarter       | Summary |
+|---------------+-------------------+---------|
+| Apple         |                   |         |
+| [[https://en.wikipedia.org/wiki/Alphabet_Inc.][Google]]        | Mountain View, CA |         |
+| Facebook      |                   |         |
+| [[https://en.wikipedia.org/wiki/YouTube][YouTube]]       | San Bruno, CA     |         |
+| Netflix       |                   |         |
+| Paypal        |                   |         |
+| [[https://en.wikipedia.org/wiki/Cisco_Systems][Cisco Systems]] | San Jose, CA      |         |
+| Airbnb        |                   |         |
+| Uber          |                   |         |
+| VMware        |                   |         |
+| SAP           |                   |         |
+| Oracle        |                   |         |
+| [[https://en.wikipedia.org/wiki/Workday,_Inc.][Workday, Inc.]] |                   |         |
+| [[https://en.wikipedia.org/wiki/Yahoo!][Yahoo!]]        |                   |         |
+** Local Preference In Bay Area                                    :noexport:
 | Name     | Store        | Comment                                                                             |
 |----------+--------------+-------------------------------------------------------------------------------------|
 | Hair cut | F8 Quick Cut | Size: 4([[https://www.menshairstylestoday.com/haircut-numbers/][Haircut Numbers]]). Address: 1711-A W EI Camino Real, Mountain View, CA 94040 |
@@ -55,7 +83,7 @@ deansautomotive.com
 [[https://www.youtube.com/watch?v=0Mbu_YDHGqc][Youtube link]]: how to program new chip key for your toyota: 
 
 *** call: 855-828-9999                                             :noexport:
-** US govement documents
+** US govement documents                                           :noexport:
 | Name      | Summary                      |
 |-----------+------------------------------|
 | I-94 form | https://i94.cbp.dhs.gov/I94/ |
@@ -73,7 +101,7 @@ deansautomotive.com
 #+LATEX_HEADER: \rhead{Updated: \today}
 #+LATEX_HEADER: \rfoot{\thepage\ of \pageref{LastPage}}
 #+LATEX_HEADER: \lfoot{\href{https://github.com/dennyzhang/cheatsheet-living-in-ca}{GitHub: https://github.com/dennyzhang/cheatsheet-living-in-ca}}
-#+LATEX_HEADER: \lhead{\href{https://cheatsheet.dennyzhang.com/cheatsheet-slack-A4}{Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}}
+#+LATEX_HEADER: \lhead{\href{https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}{Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-living-in-ca}}
 #+AUTHOR: Denny Zhang
 #+EMAIL:  denny@dennyzhang.com
 #+TAGS: noexport(n)
@@ -321,7 +349,7 @@ Wednesday
 #+END_EXAMPLE 
 ** get dental member ID card                                       :noexport:
 https://www.deltadental.com/us/en/homepage.html
-* More Resources
+* More Resources                                                   :noexport:
 License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 
 #+BEGIN_EXAMPLE
@@ -337,10 +365,10 @@ I just moved to California.  How do I get my California license and my vehicle r
 #+END_EXAMPLE
 
 #+BEGIN_HTML
-<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
-<a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
+<a href="https://cheatsheet.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+<a href="https://cheatsheet.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/dennyzhang/cheatsheet.dennyzhang.com/master/images/cheatsheet_dns.png"></a>
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/dennyzhang"><img align="bottom"src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
+<a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack"/></a>
 #+END_HTML
